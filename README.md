@@ -1,0 +1,3 @@
+# JUCE mini plugin demo with projucer (arch linux)
+
+With JUCE 6 we could use CMAKE instead of projucer, which is more flexible. Will do later...
